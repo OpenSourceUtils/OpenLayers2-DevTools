@@ -2,6 +2,12 @@
 
 Download : https://openlayers.org/two/
 
+Source code : https://github.com/openlayers/ol2
+
+Examples: http://dev.openlayers.org/examples/
+
+API docs: http://dev.openlayers.org/releases/OpenLayers-2.13.1/doc/apidocs/files/OpenLayers-js.html
+
 # Develop tools
 
 …
